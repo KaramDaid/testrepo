@@ -1,3 +1,0 @@
-"reporting_category","charge_id","automatic_payout_id","available_on_utc","currency","gross","fee","net","customer_facing_amount","customer_facing_currency","store_id","payment_metadata[order_id]","charge_created","created_utc"
-"charge","py_1LE1kER5X4yZHJIq2Zzj5j7e","po_1LGCRfR5X4yZHJIqSh4WSX6A","2022-07-01 00:00:00","cad","824.92","43.07","781.85","824.92","cad","1","336901","2022-06-24 01:55:38","2022-06-24 01:55:38"
-"refund","py_1LOsGkR5X4yZHJIqmLuvMTDD","po_1LR46AR5X4yZHJIqx7cYmGAI","2022-07-31 00:00:00","cad","-363.58","0.00","-363.58","-363.58","cad","2","339288","2022-07-24 00:02:02","2022-07-29 20:39:38"
